@@ -1,0 +1,11 @@
+{
+  "name": "Sa Blanca",
+  "short_name": "Sa Blanca",
+  "description": "Gestión de reservas de Sa Blanca",
+  "start_url": "/Sa-Blanca/",
+  "scope": "/Sa-Blanca/",
+  "display": "standalone",
+  "theme_color": "#2f626a",
+  "background_color": "#ffffff",
+  "lang": "es"
+}
