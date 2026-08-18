@@ -5,7 +5,6 @@ import {
   type FormEvent,
 } from 'react'
 import {
-  CalendarDays,
   Clock3,
   Euro,
   Plus,
